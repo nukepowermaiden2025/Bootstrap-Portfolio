@@ -177,3 +177,8 @@ input[type=submit] {
      padding:10px 30px;
      cursor: pointer; 
 }
+
+.small-icon{
+    max-width: 20%;
+    max-height:20%;
+}
