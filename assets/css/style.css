@@ -7,7 +7,7 @@
 
  /* Set all these unless otherwise told something different */
 body {
-    background: url(../images/dust_scratches.png)
+    background: url(../images/dust_scratches.png);
     font-size: 18px;
     line-height: 34px;
     font-family:Arial, Helvetica, sans-serif;
